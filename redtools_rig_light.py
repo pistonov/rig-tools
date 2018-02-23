@@ -4,7 +4,6 @@ import socket
 import json
 import datetime
 import time
-import os
 import telepot
 from telepot.loop import MessageLoop
 
