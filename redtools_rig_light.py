@@ -59,8 +59,7 @@ def handle(msg):
             #-- Shares-------
                 shares_str = 'Accepted/invalid: ' + str(accepted_shares) + ' / ' + str(invalid_shares)
             #-- Message -------
-                report_msg = miner_uptime_str + '\n' + hashrate_total_str  + '\n' + hashrate_str + '\n' + gpu_temp_str + '\n' + gpu_fans_str + '\n' + shares_st
-r
+                report_msg = miner_uptime_str + '\n' + hashrate_total_str  + '\n' + hashrate_str + '\n' + gpu_temp_str + '\n' + gpu_fans_str + '\n' + shares_str
                 
                 TelegramBot.sendMessage(chat_id, report_msg)
     except Exception as e:
