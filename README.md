@@ -25,6 +25,7 @@ Telegram bot.
 
 #### In Windows:
    *Install Python 2.x.*
+   
    *Install Python telepot package: ```C:\Python34\Tools\Scripts\pip.exe install telepot```*
   
 ## Setup:
