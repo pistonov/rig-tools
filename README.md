@@ -20,12 +20,12 @@ Telegram bot.
 ### Installation:
 
 #### In linux:
-*Install Python telepot package:*
-*```pip install telepot```*
+   *Install Python telepot package:*
+   *```pip install telepot```*
 
 #### In Windows:
-*Install Python 2.x.*
-*Install Python telepot package: ```C:\Python34\Tools\Scripts\pip.exe install telepot```*
+   *Install Python 2.x.*
+   *Install Python telepot package: ```C:\Python34\Tools\Scripts\pip.exe install telepot```*
   
 ## Setup:
   Set all necessary parameters at config section & add scrypt to startup
