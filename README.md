@@ -16,11 +16,12 @@ The script wait request to Telegram bot and sends cumulative information about:
 
 ## Dependencies:
 Telegram bot.
-Python telepot package. Installation:  
+Python telepot package. 
+Installation:  
 *pip install telepot*
   
 ## Setup:
-  Set all necessary parameters at config section & add scrypt to startup (via rc.local etc)
+  Set all necessary parameters at config section & add scrypt to startup
 
 All comments and additions are welcome.
   
