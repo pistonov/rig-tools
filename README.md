@@ -21,11 +21,11 @@ Python telepot package.
 ### Installation:
 
 #### In linux:
-```*pip install telepot*```
+*```pip install telepot```*
 
 #### In Windows:
-Install Python 2.x
-```*C:\Python34\Tools\Scripts\pip.exe install telepot*```
+*Install Python 2.x
+```C:\Python34\Tools\Scripts\pip.exe install telepot```*
   
 ## Setup:
   Set all necessary parameters at config section & add scrypt to startup
