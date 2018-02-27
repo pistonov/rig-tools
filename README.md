@@ -1,6 +1,6 @@
 # RedTools-Rig-Light
 
-Light version of python script for monitoring Claymore's Dual Ethereum miner running on Linux machine. 
+Light version of python script for monitoring Claymore's Dual Ethereum miner via API. 
 
 The script wait request to Telegram bot and sends cumulative information about:
   1. Uptime of Claymore
