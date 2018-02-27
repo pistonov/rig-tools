@@ -25,6 +25,7 @@ Python telepot package.
 
 #### In Windows:
 *Install Python 2.x
+
 ```C:\Python34\Tools\Scripts\pip.exe install telepot```*
   
 ## Setup:
