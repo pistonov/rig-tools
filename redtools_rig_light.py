@@ -10,7 +10,7 @@ from telepot.loop import MessageLoop
 #-- CONFIG -#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
 token = '1234567890:FHhfFHdjJFhfJFhdJFnvJFnvJFDHDSSADS'  # Key of telegram bot
-telegramID = 1234567                                     # ID of your telegram
+telegramID = 1234567                                     # ID of your telegram. Use google to look how you can get it.
 
 miner_ip = '127.0.0.1'
 miner_port = 3333
