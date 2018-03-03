@@ -8,7 +8,7 @@
 - sends notification when any GPU temperature increase.
 - sends notification when any GPU fan speed dropped.
 - in cumulative information shows the balance on the pool.
-- Via telegram command you can stop, start and restart the Claymore*
+- Via telegram command you can stop, start and restart the Claymore
 ```
 *The full version costs $20. Write me to pistonov@gmail.com*
 
