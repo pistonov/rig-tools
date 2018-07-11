@@ -9,7 +9,6 @@
 - sends notification when any GPU fan speed dropped.
 - in cumulative information shows the balance on the pool.
 ```
-*The full version costs $10. Write me to pistonov@gmail.com*
 
 ---------------------------------------------
 
