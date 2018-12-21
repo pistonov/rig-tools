@@ -1,18 +1,6 @@
-# RedTools-Rig-Light
----------------------------------------------
+# Tools-Rig
 
-*The full version of script also:*
-```
-- sends notification when the mining is falls.
-- sends notification when any GPU is dropped hashrate.
-- sends notification when any GPU temperature increase.
-- sends notification when any GPU fan speed dropped.
-- in cumulative information shows the balance on the pool.
-```
-
----------------------------------------------
-
-Light version of python script for monitoring Claymore's Dual Ethereum miner via API. 
+Python script for monitoring Claymore's Dual Ethereum miner via API. 
 
 The script wait request to Telegram bot and sends cumulative information about:
   1. Uptime of Claymore
